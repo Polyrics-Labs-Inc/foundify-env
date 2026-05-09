@@ -1,0 +1,3 @@
+[submodule "src/back"]
+	path = src/back
+	url = git@github.com:Polyrics-Labs-Inc/foundify-back.git
